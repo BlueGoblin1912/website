@@ -14,7 +14,7 @@ body {
     replace #f0f0f0 with the colour you want, which you can find by searching for "hex colour picker" online.
      */
     text-align: center;
-    background-color: #d8fffa;
+    background-color: #abd9ff;
 }
 
 .main-section {
@@ -45,6 +45,7 @@ a:hover {
     */
     text-decoration-style: wavy;
     text-decoration-skip-ink: none;
+
 }
 
 .profile-pic {
